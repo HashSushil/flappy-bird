@@ -3,7 +3,7 @@
 A simple **Flappy Bird** clone built with **HTML, CSS, and JavaScript**. The game runs in a web browser using the `<canvas>` element.
 
 ## 🎮 Demo
-[Live Demo](#) (Add your GitHub Pages link or deployment URL here)
+[Play it](https://hashsushil.github.io/flappy-bird/)
 
 ## 📌 Features
 ✅ Classic Flappy Bird mechanics  
